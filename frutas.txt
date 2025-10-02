@@ -4,3 +4,5 @@ Mango
 Manzana
 Naranja
 Piña
+Naranja
+Fresa
